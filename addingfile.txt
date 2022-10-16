@@ -1,0 +1,2 @@
+following the instructions on lab2 for branching and merging via command line
+because it wont be in the local diretrory, only the remote repository (ie. github)
